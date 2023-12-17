@@ -136,6 +136,38 @@
 // }
 // console.log(day) // type of cases have to be same
 
+//Loops
+// for, for/in, for/of, while, do/while
+
+//For : Executes a block of code a number of times. 
+// for (Definition (First value) ; Condition; new value after the code executed)
+
+// for (let i = 0; i < 5; i++){
+//     console.log("Loop runs")
+//     console.log(`Value of i :  ${i}`)
+// }
+
+// let text = ""
+// for (let i = 0 ; i < 5 ; i+=0.25){
+//     // text += "The number is " + i + "\n"
+//     console.log("The number is ", i.toFixed(2))
+// }
+
+// // for döngüsünde ilk kısım opsiyoneldir
+// let j = 0;
+// for(let k=1,l=10,m;j<=5;k++,l--){
+// //coding
+// console.log("k :",k," -  l :",l," - j : ", j)
+// j++
+// }
+
+
+// const arr = [0, 1, 2 ,3, 4, 5]
+// for(let l=0, r=arr.length-1; l<r; l++, r--){
+//     console.log(" l: ",l, " Array[l]-> ", arr[l], " || r: ", r, " Array[r]-> ", arr[r])
+// }
+ 
+
 
 
 
