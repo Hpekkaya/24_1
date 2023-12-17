@@ -105,6 +105,38 @@
 //   console.log("Good Night ");
 // }
  
+//Switch; performs different actions based on different conditions.
+// let day = new Date().getDay();
+// let dayX = Math.abs((day + 10)%7);
+// day= dayX
+// switch(day ) {  
+//     case 0:
+//         day = "Sunday";
+//         break;
+//     case 1:
+//         day = "Monday"
+//         break;
+//     case 2:
+//         day = "Tuesday"
+//         break;
+//     case 3:
+//         day= "Wednesday";
+//         break;
+//     case 4:
+//         day="Thursday";
+//         break;
+//     case 5:
+//         day="Friday";
+//         break;
+//     case 6:
+//         day="Saturday"
+//         break;
+//     default:
+//         day = "Incorrect data"
+// }
+// console.log(day) // type of cases have to be same
+
+
 
 
 
