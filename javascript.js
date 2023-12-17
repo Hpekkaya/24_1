@@ -37,5 +37,74 @@
 
 // console.log(!x)
 
+//conditional (ternary) operatör 
+// Condition ? if the condition true : if the condition false
+// let age = 19;
+// let votable = (age<18) ? "Too young to vote" : "Old enough to vote"
+// console.log(votable)
+
+// Logical Operators
+
+// let name1 = "Mustafa"
+// let name2; //undefined
+// let name3 = null ;
+// let name4 = 0 ;
+// let name5 = "";
+// let name6 = NaN;
+// let text = "Shown text"
+
+// console.log(name1 || text)
+// console.log(name2 || text)
+// console.log(name3 || text)
+// console.log(name4 || text)
+// console.log(name5 || text)
+// console.log(name6 || text)
+// console.log("---------------")
+// // || Returns, if there is value in the left, else return the right 
+// console.log(name1 && text)
+// console.log(name2 && text)
+// console.log(name3 && text)
+// console.log(name4 && text)
+// console.log(name5 && text)
+// console.log(name6 && text)
+// //&& Returns the right value if there is value in the left, else return the left
+ 
+// Conditional statements (koşullu ifadeler)
+// if, else, else if, switch
+
+// if
+// let hour= 19;
+// if (hour < 18) {
+//     console.log("Good Day")
+// }
+// if(hour > 18) {
+//     console.log("Good Night")
+// }
+
+// else
+// let hour= 19;
+// if (hour < 18) {
+//     console.log("Good Day")
+// }
+// else {
+//     console.log("Good Night")
+// }
+
+//else if
+// let hour = 4;
+// let name = "Ahmet";
+// if (hour < 10) {
+//   if (isim == "Ahmet") {
+//     console.log("Good Morning Ahmet");
+//   } else {
+//     console.log("Good Morning Foreigner");
+//   }
+// } else if (hour < 21) {
+//   console.log("Good Evening ");
+// } else {
+//   console.log("Good Night ");
+// }
+ 
+
 
 
